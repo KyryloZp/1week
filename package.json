@@ -1,0 +1,21 @@
+{
+  "name": "1-week",
+  "version": "1.0.0",
+  "description": "1 week, sql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "1",
+    "week"
+  ],
+  "author": "Kyrylo Kirpenko <kirill.kyrpenko.jsn@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "config": "^3.3.4",
+    "express": "^4.17.1",
+    "mysql": "^2.18.1",
+    "nodemon": "^2.0.7"
+  }
+}
